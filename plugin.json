@@ -1,0 +1,12 @@
+{
+  "ID": "4e2018ca-4ed0-11ed-bdc3-0242ac120002",
+  "ActionKeyword": "cider",
+  "Name": "Cider",
+  "Description": "Control Cider and it's playback with Flow Launcher",
+  "Author": "Monochromish",
+  "Version": "1.0.0",
+  "Language": "executable",
+  "Website": "https://github.com/Monchromish/Flow.Launcher.Plugin.Cider",
+  "ExecuteFileName": "node.bat",
+  "IcoPath": "Assets\\app.png"
+}
