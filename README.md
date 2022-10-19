@@ -4,7 +4,7 @@
 
 Control Cider and it's playback with Flow Launcher.
 
-[Preview](./Preview.mp4)
+![Preview](https://user-images.githubusercontent.com/79590499/196688120-4da4ecaa-c981-4dac-9bbb-c242c8040508.png)
 
 ## Usage
 
