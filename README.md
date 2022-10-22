@@ -8,13 +8,16 @@ Control Cider and it's playback with Flow Launcher.
 
 ## Usage
 
-| Command        | Description                               |
-|----------------|-------------------------------------------|
-| cider Play     | Resume                                    |
-| cider Pause    | Pause                                     |
-| cider Previous | Go back to the previous song in the queue |
-| cider Stop     | Stop the current song                     |
-| cider Next     | Skip to the next song in the queue        |
+| Command     | Description                               |
+| ----------- | ----------------------------------------- |
+| cd Play     | Resume                                    |
+| cd Pause    | Pause                                     |
+| cd Next     | Skip to the next song in the queue        |
+| cd Previous | Go back to the previous song in the queue |
+| cd Mute     | Mute queue                                |
+| cd Unmute   | Unmute queue                              |
+| cd Stop     | Stop the current song                     |
+| cd Quit     | Quit Cider                                |
 
-This plugin currently uses Cider's REST API, therefore it requires Cider to be running in the background
-More commands will be released once we start using the WebSocket API
+This plugin currently uses Cider's WebSocket API, therefore it requires Cider to be running in the background
+More commands will be released soon

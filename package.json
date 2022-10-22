@@ -1,6 +1,6 @@
 {
-  "name": "cider",
-  "dependencies": {
-    "xhr2": "^0.2.1"
-  }
+	"name": "cider",
+	"dependencies": {
+		"websocket": "^1.0.34"
+	}
 }
