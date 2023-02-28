@@ -4,9 +4,9 @@
 	"Name": "Cider",
 	"Description": "Control Cider and it's playback with Flow Launcher",
 	"Author": "Monochromish",
-	"Version": "1.1.0",
-	"Language": "executable",
+	"Version": "1.1.1",
+	"Language": "javascript",
 	"Website": "https://github.com/Monchromish/Flow.Launcher.Plugin.Cider",
-	"ExecuteFileName": "node.bat",
+	"ExecuteFileName": "main.js",
 	"IcoPath": "Assets\\app.png"
 }
